@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="net.sourceforge.pmd.eclipse" version="4.14.0.qualifier">
+      <category name="pmdForEclipse"/>
+   </feature>
+   <category-def name="pmdForEclipse" label="PMD for Eclipse">
+      <description>
+         PMD Plugin for Eclipse
+      </description>
+   </category-def>
+   <repository-reference location="http://download.eclipse.org/tools/orbit/downloads/drops/R20140114142710/repository/" enabled="true" />
+</site>
